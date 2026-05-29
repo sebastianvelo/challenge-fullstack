@@ -81,7 +81,3 @@ DELETE /requests/:id
 * Docker
 * Base de datos real
 
-***
-
-Mi recomendación: **sacaría Claim del alcance principal** y lo dejaría como bonus.  
-Así el challenge sigue evaluando lo mismo, pero queda mucho más enfocado y menos intimidante.
