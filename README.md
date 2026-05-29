@@ -70,14 +70,4 @@ DELETE /requests/:id
 * Organización del proyecto
 * Instrucciones claras para ejecutar
 
-***
-
-## Bonus opcional
-
-* Tests
-* React Query
-* React Hook Form
-* Swagger
-* Docker
-* Base de datos real
-
+**
